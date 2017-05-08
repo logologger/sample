@@ -8,5 +8,8 @@ class newfile{
 		BufferedReader in=new BufferedReader(reader);
 		int n=Integer.parseInt(in.readLine());
 		System.out.println(n);
+
+
+		System.out.println("Another Number Input will go here ");
 	}
 }
