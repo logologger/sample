@@ -10,6 +10,6 @@ class newfile{
 		System.out.println(n);
 
 
-		System.out.println("Another Number Input will go here ");
+		System.out.println("Another Number Input will go here ..Some other Code changes");
 	}
 }
