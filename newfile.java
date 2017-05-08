@@ -4,5 +4,9 @@ class newfile{
 
 
 		//Sample code goes here
+		InputStreamReader reader=new InputStreamReader(System.in);
+		BufferedReader in=new BufferedReader(reader);
+		int n=Integer.parseInt(in.readLine());
+		System.out.println(n);
 	}
 }
