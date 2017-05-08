@@ -1,5 +1,5 @@
 import java.io.*;
-class newfile{
+class other_file{
 	public static void main(String args[]){
 
 
@@ -10,6 +10,6 @@ class newfile{
 		System.out.println(n);
 
 
-		System.out.println("Another Number Input will go here ..Some other Code changes...We will make some changes again...Other file got created");
+		System.out.println("Other file");
 	}
 }
