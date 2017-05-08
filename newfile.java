@@ -9,6 +9,8 @@ class newfile{
 		int n=Integer.parseInt(in.readLine());
 		System.out.println(n);
 
+		System.out.println("Fourth branch code goes here");
+
 
 		System.out.println("Another Number Input will go here ..Some other Code changes...We will make some changes again...Other file got created");
 	}
